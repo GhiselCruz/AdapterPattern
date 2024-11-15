@@ -1,0 +1,7 @@
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Intermediate\Build\Win64\UE4Editor\Development\AdapterPattern\Definitions.AdapterPattern.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Source\AdapterPattern\MivimientoAdapter.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Source\AdapterPattern\IAdapter.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Intermediate\Build\Win64\UE4Editor\Inc\AdapterPattern\IAdapter.generated.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Intermediate\Build\Win64\UE4Editor\Inc\AdapterPattern\MivimientoAdapter.generated.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Source\AdapterPattern\Movimiento.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Intermediate\Build\Win64\UE4Editor\Inc\AdapterPattern\Movimiento.generated.h

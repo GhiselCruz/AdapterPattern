@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Ghisel Cruz\\Documents\\Unreal Projects\\AdapterPattern\\Source\\AdapterPattern\\AdapterPattern.Build.cs",
+		"C:\\Users\\Ghisel Cruz\\Documents\\Unreal Projects\\AdapterPattern\\Source\\AdapterPattern.Target.cs",
+		"C:\\Users\\Ghisel Cruz\\Documents\\Unreal Projects\\AdapterPattern\\Source\\AdapterPatternEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

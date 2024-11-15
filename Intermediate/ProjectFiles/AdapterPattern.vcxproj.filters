@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AdapterPattern.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{52A9BAC7-896C-45AD-8319-2920E61C5B51}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AdapterPattern.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AdapterPatternEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{0F912E1A-B3C9-4E93-89B0-8624CCBB7E28}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AdapterPattern">
+      <UniqueIdentifier>{22D0A2F3-977A-495F-9DF7-7D07CACE4732}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AdapterPattern\AdapterPattern.Build.cs">
+      <Filter>Source\AdapterPattern</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AdapterPattern\AdapterPattern.cpp">
+      <Filter>Source\AdapterPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdapterPattern\AdapterPattern.h">
+      <Filter>Source\AdapterPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdapterPattern\AdapterPatternCharacter.cpp">
+      <Filter>Source\AdapterPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdapterPattern\AdapterPatternCharacter.h">
+      <Filter>Source\AdapterPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdapterPattern\AdapterPatternGameMode.cpp">
+      <Filter>Source\AdapterPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdapterPattern\AdapterPatternGameMode.h">
+      <Filter>Source\AdapterPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdapterPattern\Enemigo.cpp">
+      <Filter>Source\AdapterPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdapterPattern\Enemigo.h">
+      <Filter>Source\AdapterPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdapterPattern\IAdapter.cpp">
+      <Filter>Source\AdapterPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdapterPattern\IAdapter.h">
+      <Filter>Source\AdapterPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdapterPattern\MivimientoAdapter.cpp">
+      <Filter>Source\AdapterPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdapterPattern\MivimientoAdapter.h">
+      <Filter>Source\AdapterPattern</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AdapterPattern\Movimiento.cpp">
+      <Filter>Source\AdapterPattern</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AdapterPattern\Movimiento.h">
+      <Filter>Source\AdapterPattern</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

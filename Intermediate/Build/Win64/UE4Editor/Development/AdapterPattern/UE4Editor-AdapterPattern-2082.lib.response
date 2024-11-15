@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AdapterPattern-2082.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Intermediate\Build\Win64\AdapterPatternEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Intermediate\Build\Win64\UE4Editor\Development\AdapterPattern\AdapterPattern.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Intermediate\Build\Win64\UE4Editor\Development\AdapterPattern\AdapterPatternCharacter.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Intermediate\Build\Win64\UE4Editor\Development\AdapterPattern\AdapterPatternGameMode.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Intermediate\Build\Win64\UE4Editor\Development\AdapterPattern\Enemigo.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Intermediate\Build\Win64\UE4Editor\Development\AdapterPattern\IAdapter.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Intermediate\Build\Win64\UE4Editor\Development\AdapterPattern\MivimientoAdapter.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Intermediate\Build\Win64\UE4Editor\Development\AdapterPattern\Movimiento.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Intermediate\Build\Win64\UE4Editor\Development\AdapterPattern\AdapterPattern.init.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Intermediate\Build\Win64\UE4Editor\Development\AdapterPattern\AdapterPatternCharacter.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Intermediate\Build\Win64\UE4Editor\Development\AdapterPattern\AdapterPatternGameMode.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Intermediate\Build\Win64\UE4Editor\Development\AdapterPattern\Enemigo.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Intermediate\Build\Win64\UE4Editor\Development\AdapterPattern\IAdapter.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Intermediate\Build\Win64\UE4Editor\Development\AdapterPattern\MivimientoAdapter.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Intermediate\Build\Win64\UE4Editor\Development\AdapterPattern\Movimiento.gen.cpp.obj"
+"C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Intermediate\Build\Win64\UE4Editor\Development\AdapterPattern\Default.rc2.res"
+/OUT:"C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Intermediate\Build\Win64\UE4Editor\Development\AdapterPattern\UE4Editor-AdapterPattern-2082.lib"

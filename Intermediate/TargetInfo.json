@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AdapterPattern",
+			"Path": "C:\\Users\\Ghisel Cruz\\Documents\\Unreal Projects\\AdapterPattern\\Source\\AdapterPattern.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AdapterPatternEditor",
+			"Path": "C:\\Users\\Ghisel Cruz\\Documents\\Unreal Projects\\AdapterPattern\\Source\\AdapterPatternEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

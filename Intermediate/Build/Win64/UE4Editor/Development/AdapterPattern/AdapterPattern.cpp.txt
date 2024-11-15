@@ -1,0 +1,2 @@
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Intermediate\Build\Win64\UE4Editor\Development\AdapterPattern\Definitions.AdapterPattern.h
+C:\Users\Ghisel Cruz\Documents\Unreal Projects\AdapterPattern\Source\AdapterPattern\AdapterPattern.h
